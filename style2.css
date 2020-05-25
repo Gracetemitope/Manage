@@ -418,7 +418,8 @@ span {
     color: orangered;
 }
 /* Responsiveness */
-/* @media (max-width:760px) {
+/* Responsiveness */
+@media (max-width:760px) {
     .contain {
         background-image: none;
     }
@@ -540,4 +541,4 @@ span {
 
 
 
-} */
+}
